@@ -23,7 +23,8 @@ Coding Insight is a powerful AI-powered code explanation & debugging assistant f
 
 ## 📥 How to Install
 
-> Since this app is not on the Play Store yet, follow these steps:
+> Since this app is currently **pending approval on Uptodown**,
+> install it manually using the steps below:
 
 1. Download the APK from the [Releases](../../releases) section
 2. Once downloaded, tap the APK file
