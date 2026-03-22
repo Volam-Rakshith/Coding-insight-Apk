@@ -21,7 +21,7 @@ Coding Insight is a powerful AI-powered code explanation & debugging assistant f
 
 ---
 
-## 📥 How to Install
+## 📥 Installation Guide
 
 > Since this app is currently **pending approval on Uptodown**,
 > install it manually using the steps below:
