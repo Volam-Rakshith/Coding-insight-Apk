@@ -55,6 +55,13 @@ Coding Insight is a powerful AI-powered code explanation & debugging assistant f
 ## 📲 Platform
 
 - ✅ Android
+---
+
+## ⏳ Availability Notice
+> *This APK is a **temporary release** while*
+> *Coding Insight is **pending approval** on Uptodown.*
+> *Once approved, it will be available directly*
+> *on **Uptodown Store** for easier installation!*
 
 ---
 
@@ -71,3 +78,4 @@ This project is licensed under the **VR-Developments License** — see the [LICE
 ---
 
 > ⭐ If you find this app useful, consider starring this repo!
+
